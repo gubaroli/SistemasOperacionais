@@ -1,4 +1,6 @@
 SistemasOperacionais
 ====================
 
-repositório referente a maeteria SO do BCC
+Nome: Gustavo Barbosa de Oliveira
+Curso: Bacharelado em Ciência da Computação
+Matéria: Sistemas Operacionais
